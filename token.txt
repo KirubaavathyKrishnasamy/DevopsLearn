@@ -1,0 +1,8 @@
+ git config --global KirubaavathyKrishnasamy "FIRST_NAME LAST_NAME"
+     
+   - Set email address:
+     git config --global user.email
+
+https://github.com/KirubaavathyKrishnasamy/DevopsLearn
+
+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

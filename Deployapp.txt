@@ -1,0 +1,21 @@
+13.232.168.19
+
+ssh -i Learn_Linux.pem ubuntu@15.206.148.18
+
+https://github.com/mohan-balakrishnan/jenkins-pipeline
+
+http://13.232.168.19/leaf in local browser
+
+sudo apt install openjdk-11-jdk
+
+wget wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+scp -i "Learn_Linux.pem" -r "ubuntu@15.206.148.18/home/ubuntu/webdriver-tests/reports/*" .
+
+WindowsServer:
+
+Administrator
+
+zaFADJhk1LBW1psyT$3isLqU6d$v2RDH
+
+13.203.214.106
