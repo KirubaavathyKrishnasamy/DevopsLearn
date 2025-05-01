@@ -1,1 +1,6 @@
 this is my pr file
+<<<<<<< HEAD
+gonna chnage this
+=======
+going to change
+>>>>>>> 5df847d50f7d84f42e76ee34080d791144c81c20
